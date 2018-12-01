@@ -7,3 +7,4 @@ listoverlap: cho 2 list a,b . In ra 1 list các phần tử cùng là con của 
 oddoreven: nhập 1 số nguyên bất kì, in ra là số chẵn hay lẻ
 stringlist: nhập 1 chuỗi bất kì, in ra kết quả: chuỗi đảo ngược có giống chuỗi ban đầu không?
 r-p-s: game rock-paper-scisor
+guessing: cho đoán 1 số từ 1 đến 9, in ra 'quá lớn' 'quá nhỏ' hay 'bằng', nhập exit để thoát ra ngoài.
