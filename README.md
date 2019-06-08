@@ -9,3 +9,4 @@ stringlist: nhập 1 chuỗi bất kì, in ra kết quả: chuỗi đảo ngư�
 r-p-s: game rock-paper-scisor
 guessing: cho đoán 1 số từ 1 đến 9, in ra 'quá lớn' 'quá nhỏ' hay 'bằng', nhập exit để thoát ra ngoài.
 22. getVersionOfPython
+23. trò chơi xúc sắc
