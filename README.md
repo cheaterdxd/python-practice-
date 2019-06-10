@@ -10,3 +10,5 @@ r-p-s: game rock-paper-scisor
 guessing: cho đoán 1 số từ 1 đến 9, in ra 'quá lớn' 'quá nhỏ' hay 'bằng', nhập exit để thoát ra ngoài.
 22. getVersionOfPython
 23. trò chơi xúc sắc
+24. python challenge 2
+25. casear cipher ver 2
