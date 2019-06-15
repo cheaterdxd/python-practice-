@@ -13,3 +13,4 @@ guessing: cho đoán 1 số từ 1 đến 9, in ra 'quá lớn' 'quá nhỏ' hay
 24. python challenge 2
 25. casear cipher ver 2
 26. python challenge 3 : đếm số lượng kí tự trong file hoặc nhập vào
+27.pythonc challenge 4: lọc theo định dang [A-Z]{3}[a-z][A-Z]{3}
