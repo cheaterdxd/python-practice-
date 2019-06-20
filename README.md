@@ -16,3 +16,4 @@ guessing: cho đoán 1 số từ 1 đến 9, in ra 'quá lớn' 'quá nhỏ' hay
 27.pythonc challenge 3: lọc theo định dang [A-Z]{3}[a-z][A-Z]{3}
 28. python challenge 4: openurl bằng thư viện urllib
 29. python challenge 5: dùng thư viện pickle
+30. game collatz sequence: hw của auto boring 
