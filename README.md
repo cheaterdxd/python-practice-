@@ -17,3 +17,4 @@ guessing: cho đoán 1 số từ 1 đến 9, in ra 'quá lớn' 'quá nhỏ' hay
 28. python challenge 4: openurl bằng thư viện urllib
 29. python challenge 5: dùng thư viện pickle
 30. game collatz sequence: hw của auto boring 
+31. Web scrapting: fb login
