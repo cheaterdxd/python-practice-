@@ -1,13 +1,13 @@
 import socket
 s = socket.socket()
-host = '192.168.1.6'
+host = 'localhost'
 port = 1234
 
-s.connect((host, port))
+s.connect((host, port)) # thiết lập kết nối đển host+port chỉ định
 messrecv = s.recv(1024)
 while messrecv:
-	print messrecv
-	messent = raw_input()
+	print(messrecv)
+	messent = str(input()).encode("utf-8")
 	s.send(messent)
 	messrecv = s.recv(1024)
 s.close()
